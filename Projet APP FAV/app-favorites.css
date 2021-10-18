@@ -1,0 +1,77 @@
+body
+{
+background-image:url(fondAPP.png);
+background-repeat: repeat;
+font-family:fantasy;
+
+}
+h1
+{
+color:turquoise;
+text-align: center;
+border-top: yellow;
+border-top:solid palegreen;
+border-top-width: 3px;
+margin: 60px;
+font-size: 50px;
+text-shadow:2px 2px 4px red;
+}
+
+.intro
+{
+color: white;
+box-shadow: 5px 5px 5px turquoise;
+border-radius: 15px;
+font-size: 20px;
+margin: 60px;
+
+}
+
+.gamer
+{
+    color:red;
+    height: 30px;
+    opacity: 30%;
+    word-spacing: 50px;
+    font-size: 30px;
+}
+.top3
+{
+    color: red;
+    text-align: center;
+    margin: 30px;
+    text-shadow:2px 2px 4px red;
+    font-size: 70px;
+}
+img
+{
+    height: 200px;
+    width: 300px;
+    border-radius: 30px;
+}
+.discord
+{
+    color:black;
+    font-size: 40px;
+    text-shadow:2px 2px 4px blue;
+    
+}
+.YouTube
+{
+    color:black;
+    font-size: 40px;
+    text-shadow:2px 2px 4px red;   
+}
+.Twitch
+{
+    color:black;
+    font-size: 40px;
+    text-shadow:2px 2px 4px purple; 
+}
+
+.fin
+{
+    color: turquoise;
+    text-shadow:2px 2px 4px blue;
+    font-size: 40px;
+}
